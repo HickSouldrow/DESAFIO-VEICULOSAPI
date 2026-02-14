@@ -63,4 +63,5 @@ dotnet ef database update
 
 ```bash
 dotnet run
+dotnet watch
 ```
